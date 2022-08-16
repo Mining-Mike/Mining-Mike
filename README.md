@@ -1,16 +1,19 @@
 # Finding The Pieces And Putting Them Together!
 
-<!--
-## This is the beginning of my Web-Development Career. I am starting another new journey at 43 years old.
 
-Here are some ideas to get you started:
+## Solutions For Virtually Any Technology Related Issue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### This is the beginning of my Web-Development Career. I am starting another new journey at 43 years old.
+
+Currently working on Crypto/NFT Project6 at its youngest phase of life. 
+
+I study to stay on top of the Worlds technology. 
+
+Looking for developers, programmers, Project managers to collaborate on a project that I haven't shared with anyone. 
+
+I am currently learning about html and java 
+
+
+You can reach me at: (470)519-0137 Please reach out via text and I will respond.
+Michael Nickerson
